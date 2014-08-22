@@ -1,0 +1,44 @@
+Case 1:
+u = 1 v = 18
+node = 1 lf = 1 rg = 18 LF = 1 RG = 18 stt = 3
+Q1: 18
+u = 2 v = 11
+node = 1 lf = 1 rg = 18 LF = 2 RG = 11 stt = 3
+node = 2 lf = 1 rg = 9 LF = 2 RG = 11 stt = 0
+node = 4 lf = 1 rg = 5 LF = 2 RG = 11 stt = 1
+node = 8 lf = 1 rg = 3 LF = 2 RG = 11 stt = 0
+node = 16 lf = 1 rg = 2 LF = 2 RG = 11 stt = 0
+node = 32 lf = 1 rg = 1 LF = 2 RG = 11 stt = 0
+node = 33 lf = 2 rg = 2 LF = 2 RG = 11 stt = 0
+node = 17 lf = 3 rg = 3 LF = 2 RG = 11 stt = 0
+node = 9 lf = 4 rg = 5 LF = 2 RG = 11 stt = 0
+node = 5 lf = 6 rg = 9 LF = 2 RG = 11 stt = 0
+node = 3 lf = 10 rg = 18 LF = 2 RG = 11 stt = 0
+node = 6 lf = 10 rg = 14 LF = 2 RG = 11 stt = 0
+node = 12 lf = 10 rg = 12 LF = 2 RG = 11 stt = 0
+node = 24 lf = 10 rg = 11 LF = 2 RG = 11 stt = 0
+node = 25 lf = 12 rg = 12 LF = 2 RG = 11 stt = 0
+node = 13 lf = 13 rg = 14 LF = 2 RG = 11 stt = 0
+node = 7 lf = 15 rg = 18 LF = 2 RG = 11 stt = 0
+Q2: 18
+u = 3 v = 11
+node = 1 lf = 1 rg = 18 LF = 3 RG = 11 stt = 3
+node = 2 lf = 1 rg = 9 LF = 3 RG = 11 stt = 0
+node = 4 lf = 1 rg = 5 LF = 3 RG = 11 stt = 1
+node = 8 lf = 1 rg = 3 LF = 3 RG = 11 stt = 0
+node = 16 lf = 1 rg = 2 LF = 3 RG = 11 stt = 0
+node = 17 lf = 3 rg = 3 LF = 3 RG = 11 stt = 0
+node = 9 lf = 4 rg = 5 LF = 3 RG = 11 stt = 0
+node = 5 lf = 6 rg = 9 LF = 3 RG = 11 stt = 2
+node = 3 lf = 10 rg = 18 LF = 3 RG = 11 stt = 0
+node = 6 lf = 10 rg = 14 LF = 3 RG = 11 stt = 0
+node = 12 lf = 10 rg = 12 LF = 3 RG = 11 stt = 0
+node = 24 lf = 10 rg = 11 LF = 3 RG = 11 stt = 0
+node = 25 lf = 12 rg = 12 LF = 3 RG = 11 stt = 0
+node = 13 lf = 13 rg = 14 LF = 3 RG = 11 stt = 0
+node = 7 lf = 15 rg = 18 LF = 3 RG = 11 stt = 0
+Q3: 18
+Case 2:
+u = 1 v = 9
+node = 1 lf = 1 rg = 9 LF = 1 RG = 9 stt = 0
+Q1: 3

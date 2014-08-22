@@ -1,0 +1,91 @@
+Mr leha1 to go from g1 to g1, you will receive 0 euros
+Path:g1 g1
+Mr leha2 to go from g1 to g2, you will receive 1 euros
+Path:g1 g2
+Mr leha3 to go from g1 to g3, you will receive 0 euros
+Path:g1 g3
+Mr leha4 to go from g1 to g4, you will receive 3 euros
+Path:g1 g3 g4
+Mr leha5 to go from g2 to g1, you will receive 1 euros
+Path:g2 g1
+Mr leha6 to go from g2 to g2, you will receive 0 euros
+Path:g2 g2
+Mr leha7 to go from g2 to g3, you will receive 1 euros
+Path:g2 g1 g3
+Mr leha8 to go from g2 to g4, you will receive 4 euros
+Path:g2 g1 g3 g4
+Sorry Mr leha9 you can not go from g3 to g1
+Sorry Mr leha10 you can not go from g3 to g2
+Mr leha11 to go from g3 to g3, you will receive 2 euros
+Path:g3 g3
+Mr leha12 to go from g3 to g4, you will receive 3 euros
+Path:g3 g4
+Sorry Mr leha13 you can not go from g4 to g1
+Sorry Mr leha14 you can not go from g4 to g2
+Sorry Mr leha15 you can not go from g4 to g3
+Mr leha16 to go from g4 to g4, you will receive 5 euros
+Path:g4 g4
+Mr leha1 to go from g1 to g1, you will receive 4 euros
+Path:g1 g3 g4 g1
+Mr leha2 to go from g1 to g2, you will receive 1 euros
+Path:g1 g2
+Mr leha3 to go from g1 to g3, you will receive 0 euros
+Path:g1 g3
+Mr leha4 to go from g1 to g4, you will receive 3 euros
+Path:g1 g3 g4
+Mr leha5 to go from g2 to g1, you will receive 6 euros
+Path:g2 g3 g4 g1
+Mr leha6 to go from g2 to g2, you will receive 1 euros
+Path:g2 g2
+Mr leha7 to go from g2 to g3, you will receive 2 euros
+Path:g2 g3
+Mr leha8 to go from g2 to g4, you will receive 5 euros
+Path:g2 g3 g4
+Mr leha9 to go from g3 to g1, you will receive 4 euros
+Path:g3 g4 g1
+Mr leha10 to go from g3 to g2, you will receive 5 euros
+Path:g3 g4 g1 g2
+Mr leha11 to go from g3 to g3, you will receive 2 euros
+Path:g3 g3
+Mr leha12 to go from g3 to g4, you will receive 3 euros
+Path:g3 g4
+Mr leha13 to go from g4 to g1, you will receive 1 euros
+Path:g4 g1
+Mr leha14 to go from g4 to g2, you will receive 2 euros
+Path:g4 g1 g2
+Mr leha15 to go from g4 to g3, you will receive 1 euros
+Path:g4 g1 g3
+Mr leha16 to go from g4 to g4, you will receive 4 euros
+Path:g4 g4
+Mr leha1 to go from g1 to g1, you will receive 4 euros
+Path:g1 g4 g1
+Mr leha2 to go from g1 to g2, you will receive 1 euros
+Path:g1 g2
+Mr leha3 to go from g1 to g3, you will receive 0 euros
+Path:g1 g3
+Mr leha4 to go from g1 to g4, you will receive 3 euros
+Path:g1 g4
+Mr leha5 to go from g2 to g1, you will receive 6 euros
+Path:g2 g3 g4 g1
+Mr leha6 to go from g2 to g2, you will receive 1 euros
+Path:g2 g2
+Mr leha7 to go from g2 to g3, you will receive 2 euros
+Path:g2 g3
+Mr leha8 to go from g2 to g4, you will receive 5 euros
+Path:g2 g3 g4
+Mr leha9 to go from g3 to g1, you will receive 4 euros
+Path:g3 g4 g1
+Mr leha10 to go from g3 to g2, you will receive 5 euros
+Path:g3 g4 g1 g2
+Mr leha11 to go from g3 to g3, you will receive 2 euros
+Path:g3 g3
+Mr leha12 to go from g3 to g4, you will receive 3 euros
+Path:g3 g4
+Mr leha13 to go from g4 to g1, you will receive 1 euros
+Path:g4 g1
+Mr leha14 to go from g4 to g2, you will receive 2 euros
+Path:g4 g1 g2
+Mr leha15 to go from g4 to g3, you will receive 1 euros
+Path:g4 g1 g3
+Mr leha16 to go from g4 to g4, you will receive 2 euros
+Path:g4 g4

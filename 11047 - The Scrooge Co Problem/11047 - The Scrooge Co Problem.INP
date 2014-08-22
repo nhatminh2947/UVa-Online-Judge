@@ -1,0 +1,70 @@
+3
+4
+g1 g2 g3 g4
+0  1  0 -1
+ 1  0  2 -1
+-1 -1  2  3
+-1 -1 -1  5
+16
+leha1 g1 g1
+leha2 g1 g2
+leha3 g1 g3
+leha4 g1 g4
+leha5 g2 g1
+leha6 g2 g2
+leha7 g2 g3
+leha8 g2 g4
+leha9 g3 g1
+leha10 g3 g2
+leha11 g3 g3
+leha12 g3 g4
+leha13 g4 g1
+leha14 g4 g2
+leha15 g4 g3
+leha16 g4 g4
+4
+g1 g2 g3 g4
+10 1 0 -1
+-1 1 2 -1
+-1 -1 2 3
+1 -1 -1 4
+16
+leha1 g1 g1
+leha2 g1 g2
+leha3 g1 g3
+leha4 g1 g4
+leha5 g2 g1
+leha6 g2 g2
+leha7 g2 g3
+leha8 g2 g4
+leha9 g3 g1
+leha10 g3 g2
+leha11 g3 g3
+leha12 g3 g4
+leha13 g4 g1
+leha14 g4 g2
+leha15 g4 g3
+leha16 g4 g4
+4
+g1 g2 g3 g4
+10 1 0 3
+-1 1 2 -1
+-1 -1 2 3
+1 -1 -1 2
+16
+leha1 g1 g1
+leha2 g1 g2
+leha3 g1 g3
+leha4 g1 g4
+leha5 g2 g1
+leha6 g2 g2
+leha7 g2 g3
+leha8 g2 g4
+leha9 g3 g1
+leha10 g3 g2
+leha11 g3 g3
+leha12 g3 g4
+leha13 g4 g1
+leha14 g4 g2
+leha15 g4 g3
+leha16 g4 g4

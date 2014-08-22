@@ -1,0 +1,81 @@
+i =   0 j =   0     m =   1
+i =   0 j =   1     m =   0
+i =   0 j =   2     m =   0
+i =   1 j =   1     m =   0
+i =   1 j =   2     m =   0
+i =   2 j =   2     m =   2
+Case #1: The maximum product is 2.
+
+i =   0 j =   0     m =   5
+i =   0 j =   1     m = -45
+i =   0 j =   2     m = 315
+i =   0 j =   3     m = -2520
+i =   1 j =   1     m =  -9
+i =   1 j =   2     m =  63
+i =   1 j =   3     m = -504
+i =   2 j =   2     m =  -7
+i =   2 j =   3     m =  56
+i =   3 j =   3     m =  -8
+Case #2: The maximum product is 315.
+
+i =   0 j =   0     m =   1
+i =   0 j =   1     m =   0
+i =   1 j =   1     m =   0
+Case #3: The maximum product is 1.
+
+i =   0 j =   0     m =  -1
+i =   0 j =   1     m =   0
+i =   1 j =   1     m =   0
+Case #4: The maximum product is 0.
+
+i =   0 j =   0     m =   4
+i =   0 j =   1     m =  32
+i =   0 j =   2     m =   0
+i =   0 j =   3     m =   0
+i =   0 j =   4     m =   0
+i =   0 j =   5     m =   0
+i =   1 j =   1     m =   8
+i =   1 j =   2     m =   0
+i =   1 j =   3     m =   0
+i =   1 j =   4     m =   0
+i =   1 j =   5     m =   0
+i =   2 j =   2     m =   0
+i =   2 j =   3     m =   0
+i =   2 j =   4     m =   0
+i =   2 j =   5     m =   0
+i =   3 j =   3     m =  -9
+i =   3 j =   4     m = -54
+i =   3 j =   5     m =  54
+i =   4 j =   4     m =   6
+i =   4 j =   5     m =  -6
+i =   5 j =   5     m =  -1
+Case #5: The maximum product is 54.
+
+i =   0 j =   0     m =  -8
+i =   0 j =   1     m =  64
+i =   0 j =   2     m = -448
+i =   0 j =   3     m = -2240
+i =   0 j =   4     m = -2240
+i =   1 j =   1     m =  -8
+i =   1 j =   2     m =  56
+i =   1 j =   3     m = 280
+i =   1 j =   4     m = 280
+i =   2 j =   2     m =  -7
+i =   2 j =   3     m = -35
+i =   2 j =   4     m = -35
+i =   3 j =   3     m =   5
+i =   3 j =   4     m =   5
+i =   4 j =   4     m =   1
+Case #6: The maximum product is 280.
+
+i =   0 j =   0     m =   0
+i =   0 j =   1     m =   0
+i =   1 j =   1     m =   0
+Case #7: The maximum product is 0.
+
+i =   0 j =   0     m =   0
+Case #8: The maximum product is 0.
+
+i =   0 j =   0     m =  -1
+Case #9: The maximum product is 0.
+
